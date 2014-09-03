@@ -1,8 +1,8 @@
 .pydevproject
 .metadata
 .gradle
-bin/
-tmp/
+/bin/
+/tmp/
 *.tmp
 *.bak
 *.swp
